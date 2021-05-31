@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yojankoirala
 - 👀 I’m interested in programming and ethical hacking
 - 🌱 I’m currently learning programming
-- 📫 How to reach me via email
+- 📫 Reach me via emailing me
 
 <!---
 Yojankoirala/Yojankoirala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
